@@ -13,7 +13,7 @@ COUNCIL_MODELS = [
     "meta-llama/llama-4-maverick",
     "x-ai/grok-4.1-fast",
     "deepseek/deepseek-chat-v3.1",
-    "qwen/qwen2.5-vl-3b-instruct"
+    "qwen/qwen3-235b-a22b-2507"
 ]
 
 # Chairman model - synthesizes final response
